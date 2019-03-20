@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A34930</color>
+    <color name="colorPrimaryDark">#6D2A16</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="fundo_bichos">#F4E8B8</color>
+</resources>
